@@ -1,0 +1,10 @@
+Equity,AA,12,0.24
+Equity,AAA,123,11.07
+Equity,AAAA,89,6.23
+Equity,AABB,19,0.38
+Equity,BBB,5,-0.25
+Equity,BBBB,3,-0.12
+Bond,CC,4,0.52
+Bond,CCC,3,0.39
+Bond,DD,3,3.72
+Bond,DDD,8,9.28
